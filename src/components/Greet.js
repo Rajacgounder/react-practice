@@ -1,4 +1,5 @@
 //for the functional Components use only props.name dont use this keyword
+//props Deconstructing
 import React from 'react'
 
 function Greet(props) {
